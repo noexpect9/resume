@@ -22,4 +22,4 @@ jobs:
       with:
         ACCESS_TOKEN: ${{ secrets.resume }}
         BRANCH: gh-pages
-        FOLDER: dist
+        FOLDER: ./dist
