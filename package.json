@@ -1,6 +1,6 @@
 {
   "name": "resume",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -30,6 +30,5 @@
     "tailwindcss": "^3.4.3",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  },
-  "homepage": "https://github.com/noexpect9/resume"
+  }
 }
