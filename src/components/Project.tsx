@@ -27,7 +27,7 @@ const Project = () => {
       </section>
       <article>
         项目描述: 一个统一且可定制的平台，帮助企业全面管理销售过程，从潜在客户的开发到交易的闭合。它将提供准确的销售预测、客户关系管理、销售团队协作等功能，以帮助企业实现更高的销售效率、增加销售额。
-        技术栈: Vue3 / TypeScript / Tailwindcss / Element-Plus / Vite / Uniapp 。
+        <div>技术栈: Vue3 / TypeScript / Tailwindcss / Element-Plus / Vite / Uniapp 。</div>
         <div className="font-bold">主要贡献:</div>
         <li>从 0 到 1 负责项目开发工作, 主导前端开发流程, 助力项目开发到上线</li>
         <li>采用多种方式实现权限控制，通过组件、指令和函数等方式实现菜单/按钮级别的权限控制，以保证系统安全性</li>
