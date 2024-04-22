@@ -1,0 +1,2 @@
+const __vite__fileDeps=["assets/RotateUpdater-BNlqVkNp.js","assets/index-BCivS8xf.js","assets/index-YjRqzu1h.css","assets/ValueWithRandom-Ba2xhHhS.js"],__vite__mapDeps=i=>i.map(i=>__vite__fileDeps[i]);
+import{_ as o}from"./index-BCivS8xf.js";async function i(t,a=!0){await t.addParticleUpdater("rotate",async e=>{const{RotateUpdater:r}=await o(()=>import("./RotateUpdater-BNlqVkNp.js"),__vite__mapDeps([0,1,2,3]));return new r(e)},a)}export{i as loadRotateUpdater};
