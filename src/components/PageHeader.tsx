@@ -1,8 +1,8 @@
 
-import Phone from './/GrommetIconsPhone'
-import IconParkOutlineEditName from './/IconParkOutlineEditName'
-import IcSharpWechat from './/IcSharpWechat'
-import MaterialSymbolsAttachEmailSharp from './/MaterialSymbolsAttachEmailSharp'
+import Phone from './icons/GrommetIconsPhone'
+import IconParkOutlineEditName from './icons/IconParkOutlineEditName'
+import IcSharpWechat from './icons/IcSharpWechat'
+import MaterialSymbolsAttachEmailSharp from './icons/MaterialSymbolsAttachEmailSharp'
 
 type LabelType = '手机' | '微信' | '邮箱' | '姓名'
 
