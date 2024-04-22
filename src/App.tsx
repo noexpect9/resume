@@ -11,8 +11,8 @@ function App() {
         <div className='w-[21cm] p-[1em] rounded-md'>
           <PageHeader />
           <SelfEvaluation />
-          <WorkExperience />
           <Project />
+          <WorkExperience />
           <Edu />
           <Demo />
         </div>
